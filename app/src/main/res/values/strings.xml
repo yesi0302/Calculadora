@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculadora Equipo</string>
+    <string name="tv_operacion"></string>
+    <string name="tv_resultado">0</string>
+
+
+    <string name="btn_c">C</string>
+    <string name="btn_parentesis">()</string>
+    <string name="btn_borrar">DEl</string>
+    <string name="btn_div">/</string>
+
+    <string name="btn_siete">7</string>
+    <string name="btn_ochoco">8</string>
+    <string name="btn_nueve">9</string>
+    <string name="btn_mult">*</string>
+
+    <string name="btn_cuatro">4</string>
+    <string name="btn_cinco">5</string>
+    <string name="btn_seis">6</string>
+    <string name="btn_menos">-</string>
+
+    <string name="btn_uno">1</string>
+    <string name="btn_dos">2</string>
+    <string name="btn_tres">3</string>
+    <string name="btn_mas">+</string>
+
+    <string name="btn_modulo">%</string>
+    <string name="btn_cero">0</string>
+    <string name="btn_punto">.</string>
+    <string name="btn_igual">=</string>
+
+
+
+</resources>
